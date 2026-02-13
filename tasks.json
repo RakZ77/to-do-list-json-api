@@ -77,21 +77,21 @@
       "name": "Office Project",
       "tasks": 23,
       "progress": 70,
-      "icon": "briefcase"
+      "icon": "https://raw.githubusercontent.com/RakZ77/to-do-list-json-api/main/images/breifcase.png"
     },
     {
       "id": 2,
       "name": "Personal Project",
       "tasks": 30,
       "progress": 52,
-      "icon": "user"
+      "icon": "https://raw.githubusercontent.com/RakZ77/to-do-list-json-api/main/images/book.png"
     },
     {
       "id": 3,
       "name": "Daily Study",
       "tasks": 30,
       "progress": 87,
-      "icon": "book"
+      "icon": "https://raw.githubusercontent.com/RakZ77/to-do-list-json-api/main/images/user-octagon.png"
     }
     ]
 }
