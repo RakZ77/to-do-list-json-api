@@ -78,6 +78,7 @@
       "tasks": 23,
       "progress": 70,
       "icon": "https://raw.githubusercontent.com/RakZ77/to-do-list-json-api/main/images/briefcase.png"
+      "color": "#EFBAF7"
     },
     {
       "id": 2,
@@ -85,6 +86,7 @@
       "tasks": 30,
       "progress": 52,
       "icon": "https://raw.githubusercontent.com/RakZ77/to-do-list-json-api/main/images/book.png"
+      "color": "#FFE180"
     },
     {
       "id": 3,
@@ -92,6 +94,7 @@
       "tasks": 30,
       "progress": 87,
       "icon": "https://raw.githubusercontent.com/RakZ77/to-do-list-json-api/main/images/user-octagon.png"
+      "color": "#D0A7F2"
     }
     ]
 }
